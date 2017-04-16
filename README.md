@@ -6,7 +6,11 @@ These instructions are for running the completed application created in the Eggh
 
 From a terminal, clone this repo into the folder of your choosing (in this example, I'm using `egghead-todo`)
 
-`git clone git@github.com:avanslaars/egghead_react_todo_app_course.git egghead-todo`
+* `git clone git@github.com:avanslaars/egghead_react_todo_app_course.git egghead-todo`
+
+Then install the project dependencies with npm. **Be sure to `cd` into the project root first**
+
+* `npm install`
 
 To run this application, you will need to have the mock API server **and** the web pack dev server running in separate terminal sessions.
 
